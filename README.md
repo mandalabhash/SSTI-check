@@ -1,6 +1,3 @@
-Sure, here's the complete `README.md` file code for the "SSTI-check" project:
-
-```markdown
 # SSTI-check
 
 ## Description
@@ -17,7 +14,7 @@ The tool displays the scan results in three main sections:
 To run the SSTI-check tool, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```
+   bash```
    git clone https://github.com/mandalabhash/SSTI-check.git
    ```
 
